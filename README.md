@@ -1,2 +1,2 @@
-# feeshmaster.github.io
-a game site that will be pretty nice(WIP)
+# A clone of feeshmaster - AF901
+UwU
